@@ -1,4 +1,3 @@
-# Hello-World
-initiating repository 
+# Hello-World 
 
 Hi! Just playing with Github.....
